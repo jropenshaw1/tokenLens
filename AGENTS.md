@@ -1,9 +1,9 @@
 # AGENTS.md — TokenLens
 
-## Source Of Authority
-- Follow `docs/governance.md` as the inherited operating governance until a root `governance.md` exists.
-- TSH-9, LENS, documentation-first discipline, multi-agent review gate, public/private boundary, and secrets-by-reference govern this repo.
-- Do not duplicate governance here; if this file conflicts with governance, governance wins.
+## Source of Authority
+- This project is governed by the jonathan-ops governance framework, delivered automatically via the `jonathan-governance` Codex skill. Project-specific rules below supplement, never override, the governance framework.
+- TSH-9, LENS, documentation-first discipline, multi-agent review gate, public/private boundary, and secrets-by-reference are defined in the governance framework and apply to this repo.
+- If this file conflicts with governance, governance wins.
 
 ## Project Shape
 - TokenLens is a public-repo, personal AI-ops telemetry project for visibility into delegated intelligence spend.
